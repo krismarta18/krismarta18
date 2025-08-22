@@ -56,8 +56,8 @@
 # 🌐 Connect with me
 - 📧 Email : [Mail](mailto:kristianto.kt@email.com)  
 - 💼 LinkedIn : [Linkedin](https://linkedin.com/in/krismarta/)  
-- 🌍 Website : [Instagram](https://www.instagram.com/krismarta_)  
+- 🌍 Instagram : [Instagram](https://www.instagram.com/krismarta_)  
 
 ✨ *Always learning, always building!*  
 
-![Seewash QR](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://bio.link/seewashindonesia)
+[![Scan QR untuk Daftar Semitra](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://bio.link/seewashindonesia)](https://bio.link/seewashindonesia)
