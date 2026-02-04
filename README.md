@@ -11,7 +11,7 @@
 
 # 🚀 My Projects
 1. [Seewash Indonesia](https://seewash.com) → Aplikasi Pemesanan Laundry On-Demand 🔶 In Development  
-2. [Semitra Indonesia](https://seewash.com/semitra) → Aplikasi Management Usaha Laundry ✅ Released
+2. [Seewash Partner](https://seewash.com/partner) → Aplikasi Management Usaha Laundry ✅ Released
 
 # 🛠️ Tech Stack
 #### 🚀 Languages & Frameworks
