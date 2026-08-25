@@ -12,6 +12,7 @@
 # 🚀 My Projects
 1. [Seewash Indonesia](https://seewash.com) → Aplikasi Pemesanan Laundry On-Demand 🔶 In Development  
 2. [Seewash Partner](https://seewash.com/partner) → Aplikasi Management Usaha Laundry ✅ Released
+3. [AkuAkad.com](https://seewash.com/partner) → Website Undangan Digital ✅ Released
 
 # 🛠️ Tech Stack
 #### 🚀 Languages & Frameworks
