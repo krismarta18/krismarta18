@@ -10,8 +10,8 @@
 ⚡ Fun fact: I debug with coffee ☕   
 
 # 🚀 My Projects
-1. [Seewash Indonesia](https://seewash.com) → Aplikasi Pemesanan Laundry On-Demand 🔶 In Development  
-2. [Seewash Partner](https://seewash.com/partner) → Aplikasi Management Usaha Laundry ✅ Released
+1. [Seewash Indonesia](https://seewash.com) → Aplikasi Pemesanan Laundry On-Demand 🔶 Out Of Service 
+2. [Seewash Partner](https://seewash.com/partner) → Aplikasi Management Usaha Laundry 🔶 Out Of Service
 3. [AkuAkad.com](https://akuakad.com) → Website Undangan Digital ✅ Released
 
 # 🛠️ Tech Stack
